@@ -1,0 +1,53 @@
+{
+  "name": "image-annotation-frontend",
+  "version": "1.0.0",
+  "description": "Single-page web app for fast human analysis of images, used internally by our company's employees to classify and analyze images efficiently",
+  "main": "./src/index.js",
+  "scripts": {
+    "start": "react-scripts start",
+    "build": "react-scripts build",
+    "test": "react-scripts test --env=jsdom",
+    "eject": "react-scripts eject"
+  },
+  "keywords": [
+    "annotation",
+    "Classification",
+    "Center",
+    "Bounding"
+  ],
+  "author": "xiao gui",
+  "license": "ISC",
+  "dependencies": {
+    "@material-ui/core": "^3.3.2",
+    "@material-ui/icons": "^3.0.1",
+    "axios": "^0.18.0",
+    "babel-preset-es2015": "^6.24.1",
+    "css-loader": "^1.0.1",
+    "react": "^16.6.0",
+    "react-cursor-position": "^3.0.3",
+    "react-dom": "^16.6.3",
+    "react-drag-drop-container": "^6.1.1",
+    "react-draggable": "^3.0.5",
+    "react-loadable": "^5.5.0",
+    "react-precache-img": "^2.0.5",
+    "react-redux": "^5.1.0",
+    "react-router-dom": "^4.2.2",
+    "react-scripts": "^2.1.1",
+    "react-slideshow-image": "^1.0.8",
+    "react-social-login": "^3.4.2",
+    "react-social-login-buttons": "^2.2.0",
+    "redux": "^4.0.1",
+    "redux-logger": "^3.0.6",
+    "redux-thunk": "^2.3.0",
+    "style-loader": "^0.23.1"
+  },
+  "browserslist": [
+    ">0.2%",
+    "not dead",
+    "not ie <= 11",
+    "not op_mini all"
+  ],
+  "devDependencies": {
+    "redux-devtools": "^3.4.1"
+  }
+}

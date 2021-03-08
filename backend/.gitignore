@@ -1,0 +1,5 @@
+venv/
+statics/
+task/migrations/
+users/migrations/
+api/migrations/

@@ -64,3 +64,8 @@ You can see additional python packages in requirement.txt and additional fronten
 + Django
   + pip install
   + python manage.py runserver
+
+
+#### Author
++ Eric Serra
++ ericserraupwork@gmail.com
